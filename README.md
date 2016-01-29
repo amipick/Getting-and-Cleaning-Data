@@ -8,4 +8,20 @@ and Finally I've created the summarized data set with average data per subject p
 
 Originaly I had 10299 rows by 68 columns after the tidy process I was left with 180 rows and 69 columns (adding the description of the activity).
 the output of this code will be writen to your working directory as "TidyData.txt"
-for more information check CodeBook.md
+
+# Code Book "TidyData"
+Subject:
+  values 1:30, each repesent a person.
+Activity and ActivityName:
+  Activity IDs and description: 
+1 WALKING
+2 WALKING_UPSTAIRS
+3 WALKING_DOWNSTAIRS
+4 SITTING
+5 STANDING
+6 LAYING
+
+Mesurments:
+  MEAN values represents average
+  SD values represents standard deviation
+  for more information please review "Feature Selection.txt" in your unzipped folder.
