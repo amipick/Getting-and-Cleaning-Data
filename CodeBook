@@ -1,0 +1,14 @@
+# Code Book "TidyData"
+Subject:
+  values 1:30, each repesent a participant.
+Activity and ActivityName:
+  Activity IDs and description: 
+1 WALKING
+2 WALKING_UPSTAIRS
+3 WALKING_DOWNSTAIRS
+4 SITTING
+5 STANDING
+Mesurments:
+  MEAN values represents average
+  SD values represents standard deviation
+  ** for more information please review "Feature Selection.txt" in your unzipped fold
